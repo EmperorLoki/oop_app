@@ -90,7 +90,7 @@ class _MyHomePageState extends State<MyHomePage> {
         // in the middle of the parent.
         child: Text(
           'Hello, OOP!',
-          style : TextStyle(fontSize: 24,),
+          style : TextStyle(fontSize: 30,),
           // Column is also a layout widget. It takes a list of children and
           // arranges them vertically. By default, it sizes itself to fit its
           // children horizontally, and tries to be as tall as its parent.
